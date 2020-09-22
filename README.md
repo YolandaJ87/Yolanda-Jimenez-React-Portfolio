@@ -1,2 +1,2 @@
-# Yolanda Jiménez Reacto Portfolio Application
+# Yolanda Jiménez React Portfolio Application
 
